@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/embedeasyAssignment/static/css/main.b472a16c.css",
+    "main.js": "/embedeasyAssignment/static/js/main.8c8a7879.js",
+    "index.html": "/embedeasyAssignment/index.html",
+    "main.b472a16c.css.map": "/embedeasyAssignment/static/css/main.b472a16c.css.map",
+    "main.8c8a7879.js.map": "/embedeasyAssignment/static/js/main.8c8a7879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b472a16c.css",
+    "static/js/main.8c8a7879.js"
+  ]
+}
